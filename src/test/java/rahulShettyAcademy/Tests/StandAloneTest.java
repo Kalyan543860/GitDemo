@@ -18,6 +18,9 @@ public class StandAloneTest {
 
 	public static void main(String[] args) {
 		
+		System.out.println("Kalyan");
+		System.out.println("kumar");
+		System.out.println("guggulla");
 		
 		String productName = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
