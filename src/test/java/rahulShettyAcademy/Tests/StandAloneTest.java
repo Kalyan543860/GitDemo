@@ -22,6 +22,21 @@ public class StandAloneTest {
 		System.out.println("kumar");
 		System.out.println("guggulla");
 		
+		
+		
+		
+		System.out.println("asdn");
+		System.out.println("ksagguar");
+		System.out.println("gulla");
+		
+		System.out.println("Kaan");
+		System.out.println("kA");
+		System.out.println("gAlla");
+		
+		System.out.println("KalAn");
+		System.out.println("kuAr");
+		System.out.println("gAulla");
+		
 		String productName = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
